@@ -16,6 +16,6 @@ class Solution:
         else:
             return 0
 
-test_case = "Hello World "
+s = "Hello World "
 solution = Solution()
-print(solution.lengthOfLastWord(test_case))  # Output should be 5
+print(solution.lengthOfLastWord(s))  
